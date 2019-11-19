@@ -36,10 +36,10 @@ class ProfileAct : AppCompatActivity() {
 
     override fun onResume() {
         super.onResume()
-        if (intent.hasExtra("login")) textView_login.setText("login: " + intent.getCharSequenceExtra("login"))
-        if (intent.hasExtra("email"))  textView_email.setText("email: " + intent.getCharSequenceExtra("email"))
-        if (intent.hasExtra("plec")) textView_plec.setText("płeć: " + intent.getCharSequenceExtra("plec"))
-        if (intent.hasExtra("haslo")) textView_passw.setText("hasło: " + intent.getCharSequenceExtra("hslo"))
+        if (intent.hasExtra("login")) textView_login.setText("Twój login: " + intent.getCharSequenceExtra("login"))
+        if (intent.hasExtra("email"))  textView_email.setText("Podany e-mail: " + intent.getCharSequenceExtra("email"))
+        if (intent.hasExtra("plec")) textView_plec.setText("Twoja płeć: " + intent.getCharSequenceExtra("plec"))
+        if (intent.hasExtra("haslo")) textView_passw.setText("Twoje hasło: " + intent.getCharSequenceExtra("hslo"))
 
 
 

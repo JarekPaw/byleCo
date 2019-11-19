@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         super.onResume()
 
 // najpierw trzeba się dostać do intencji, która uruchomiła teraz mainActivity, bo onResume()
-// jest też wzywana podczas pierwszego uruchomienia app.
+// jest ona też wzywana podczas pierwszego uruchomienia app.
 // najpierw sprawdzimy czy intencja, która uruchomiła mainActivity ma jakiś dodatek - Extras
         if (intent.hasExtra("plec")) tv2.setText(intent.getCharSequenceExtra("plec"))
     }

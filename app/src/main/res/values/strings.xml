@@ -21,6 +21,6 @@
     <string name="textView_regulam">regulamin</string>
     <string name="textView_plec">płeć</string>
     <string name="textView_napis">Dzisiejsza data to: </string>
-    <string name="textView_data">jeśli chcesz wyświetlić datę naciśnij Kalendarz</string>
+    <string name="textView_data">chcesz wyświetlić datę naciśnij Kalendarz</string>
     <string name="btn_data">Kalendarz</string>
 </resources>

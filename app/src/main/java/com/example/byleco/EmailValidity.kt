@@ -27,4 +27,5 @@ fun emailValidity(editTextEmail: EditText, textViewEmailWarn: TextView){
 
         }
     })
+    // //sprawdzanie maila przeniesione do odzielnej aktywności
 }

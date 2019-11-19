@@ -19,8 +19,7 @@ class SecondActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_second)
 
-//        var image: Int = resources.getIdentifier(imageView1.toString(),"nic", this.packageName)
-//        imageView1.setImageResource(image)
+
         imageView1.setImageResource(R.drawable.logo_big)
 
         /*editText2.setText("kto to")

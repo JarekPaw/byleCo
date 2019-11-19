@@ -26,3 +26,4 @@ fun passwordValidity (editTextPass: EditText, textViewPassWarn: TextView){
         }
     })
 }
+//sprawdzanie hasła przeniesione do odzielnej aktywności
