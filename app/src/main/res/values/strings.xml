@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ByleCo</string>
+    <string name="tv1">Witaj</string>
+    <string name="tv2">kto to?</string>
+    <string name="btn1">Zrób coś</string>
+    <string name="btn2">Przejdz dalej</string>
+    <string name="textView2">Ekran drugi</string>
+    <string name="email_hint">podaj email</string>
+    <string name="password_hint">wpisz hasło</string>
+    <string name="login_hint">podaj login</string>
+    <string name="Rb_women">Women</string>
+    <string name="RB_men">Man</string>
+    <string name="pass_worn">hasło za krótkie</string>
+    <string name="email_worn">TextView</string>
+    <string name="image_view1_discriptio">przykładowe zdjęcie</string>
+    <string name="cBregulam">Akceptuję regulamin</string>
+    <string name="bntRegulam">OK</string>
+    <string name="textView_login">login</string>
+    <string name="textView_email">e-mail</string>
+    <string name="textView_passw">hasło</string>
+    <string name="textView_regulam">regulamin</string>
+    <string name="textView_plec">płeć</string>
+    <string name="textView_napis">Dzisiejsza data to: </string>
+    <string name="textView_data">jeśli chcesz wyświetlić datę naciśnij Kalendarz</string>
+    <string name="btn_data">Kalendarz</string>
+</resources>
